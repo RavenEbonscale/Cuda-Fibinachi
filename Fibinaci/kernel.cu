@@ -51,7 +51,8 @@ int main()
 
 
 	cudaFree(seq);
-
+	system("pause");
+	return 0;
 	
 	
  
